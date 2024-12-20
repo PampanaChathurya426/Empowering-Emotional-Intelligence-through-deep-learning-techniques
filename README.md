@@ -1,0 +1,2 @@
+# Empowering-Emotional-Intelligence-through-deep-learning-techniques
+To create a strong deep learning system, the project makes use of RNNs, BERT, CNNs, and GANs.  • Using a user-friendly web application, the technology detects emotions in real time.   • It provides personalized material, such as poetry for adults, Anime for kids, and Book Recommendation for the  elderly, based on identified emotions.
